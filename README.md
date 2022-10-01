@@ -4,7 +4,7 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Sakil-red)](https://www.youtube.com/channel/UCFKLp3WiPHItbwU-eVsHmyQ/videos)
 [![Linkedin Badge](https://img.shields.io/badge/-Sakil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakil-rohman-8983331b5/)](https://www.linkedin.com/in/sakil-rohman-8983331b5/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Sakil-green)](https://sakil-rohman.github.io/profile-project/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Sakil-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I'm
 Full Stack Solution Architect
